@@ -1,0 +1,14 @@
+C:\Users\Nicob\Desktop\C# Curso\Nivel 2\Ejemplo ventas\obj\Debug\net8.0\Ejemplo ventas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicob\Desktop\C# Curso\Nivel 2\Ejemplo ventas\obj\Debug\net8.0\Ejemplo ventas.AssemblyInfoInputs.cache
+C:\Users\Nicob\Desktop\C# Curso\Nivel 2\Ejemplo ventas\obj\Debug\net8.0\Ejemplo ventas.AssemblyInfo.cs
+C:\Users\Nicob\Desktop\C# Curso\Nivel 2\Ejemplo ventas\obj\Debug\net8.0\Ejemplo ventas.csproj.CoreCompileInputs.cache
+C:\Users\Nicob\Desktop\C# Curso\Nivel 2\Ejemplo ventas\bin\Debug\net8.0\Ejemplo ventas.exe
+C:\Users\Nicob\Desktop\C# Curso\Nivel 2\Ejemplo ventas\bin\Debug\net8.0\Ejemplo ventas.deps.json
+C:\Users\Nicob\Desktop\C# Curso\Nivel 2\Ejemplo ventas\bin\Debug\net8.0\Ejemplo ventas.runtimeconfig.json
+C:\Users\Nicob\Desktop\C# Curso\Nivel 2\Ejemplo ventas\bin\Debug\net8.0\Ejemplo ventas.dll
+C:\Users\Nicob\Desktop\C# Curso\Nivel 2\Ejemplo ventas\bin\Debug\net8.0\Ejemplo ventas.pdb
+C:\Users\Nicob\Desktop\C# Curso\Nivel 2\Ejemplo ventas\obj\Debug\net8.0\Ejemplo ventas.dll
+C:\Users\Nicob\Desktop\C# Curso\Nivel 2\Ejemplo ventas\obj\Debug\net8.0\refint\Ejemplo ventas.dll
+C:\Users\Nicob\Desktop\C# Curso\Nivel 2\Ejemplo ventas\obj\Debug\net8.0\Ejemplo ventas.pdb
+C:\Users\Nicob\Desktop\C# Curso\Nivel 2\Ejemplo ventas\obj\Debug\net8.0\Ejemplo ventas.genruntimeconfig.cache
+C:\Users\Nicob\Desktop\C# Curso\Nivel 2\Ejemplo ventas\obj\Debug\net8.0\ref\Ejemplo ventas.dll
